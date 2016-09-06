@@ -1,0 +1,52 @@
+[
+	{
+		"question" : "What is the most popular full stack for developing javascript applications?",
+		"answers" : [
+			{"id" : 0, "text" : "MERN"},
+			{"id" : 1, "text" : "MEAN"},
+			{"id" : 2, "text" : "MEEN"},
+			{"id" : 3, "text" : "MEBN"}
+		],
+		"correct" : 1
+	},
+		{
+		"question" : "Which is Angular?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/close_up_01.jpg" },
+			{"id"  : 1, "image" : "images/close_up_02.jpg" },
+			{"id"  : 2, "image" : "images/close_up_03.jpg" },
+			{"id"  : 3, "image" : "images/close_up_04.jpg" }
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "Initial release of Angular 1 was in _____",
+		"answers"  : [
+			{"id"  : 0, "text" : "2008"},
+			{"id"  : 1, "text" : "2009"},
+			{"id"  : 2, "text" : "2010"},
+			{"id"  : 3, "text" : "2011"}
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "The Creator of the JavaScript is _____",
+		"answers"  : [
+			{"id"  : 0, "text" : "Stephen King"},
+			{"id"  : 1, "text" : "James Bond"},
+			{"id"  : 2, "text" : "Brandon Lee"},
+			{"id"  : 3, "text" : "Thomas Cook"},
+			{"id"  : 4, "text" : "Brendan Eich"},
+			{"id"  : 5, "text" : "John Smith"}
+		],
+		"correct"  : 4
+	},
+	{
+		"question" : "You can write almost everything on Javascript",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	}
+]
